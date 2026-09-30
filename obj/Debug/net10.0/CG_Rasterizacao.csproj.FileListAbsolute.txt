@@ -1,0 +1,14 @@
+E:\Github\CG_Rasterizacao\bin\Debug\net10.0\CG_Rasterizacao.exe
+E:\Github\CG_Rasterizacao\bin\Debug\net10.0\CG_Rasterizacao.deps.json
+E:\Github\CG_Rasterizacao\bin\Debug\net10.0\CG_Rasterizacao.runtimeconfig.json
+E:\Github\CG_Rasterizacao\bin\Debug\net10.0\CG_Rasterizacao.dll
+E:\Github\CG_Rasterizacao\bin\Debug\net10.0\CG_Rasterizacao.pdb
+E:\Github\CG_Rasterizacao\obj\Debug\net10.0\CG_Rasterizacao.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\CG_Rasterizacao\obj\Debug\net10.0\CG_Rasterizacao.AssemblyInfoInputs.cache
+E:\Github\CG_Rasterizacao\obj\Debug\net10.0\CG_Rasterizacao.AssemblyInfo.cs
+E:\Github\CG_Rasterizacao\obj\Debug\net10.0\CG_Rasterizacao.csproj.CoreCompileInputs.cache
+E:\Github\CG_Rasterizacao\obj\Debug\net10.0\CG_Rasterizacao.dll
+E:\Github\CG_Rasterizacao\obj\Debug\net10.0\refint\CG_Rasterizacao.dll
+E:\Github\CG_Rasterizacao\obj\Debug\net10.0\CG_Rasterizacao.pdb
+E:\Github\CG_Rasterizacao\obj\Debug\net10.0\CG_Rasterizacao.genruntimeconfig.cache
+E:\Github\CG_Rasterizacao\obj\Debug\net10.0\ref\CG_Rasterizacao.dll
